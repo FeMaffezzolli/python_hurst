@@ -8,5 +8,6 @@ Calculating Hurst for your machine.
 
 ## How does it look like?
 
+![hurst]('hurst.png')
 
 ## Dependencies
